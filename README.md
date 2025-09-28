@@ -74,7 +74,8 @@ The variables `vsphere_user`, `vsphere_password`, and `vsphere_server` are requi
 ## Usage
 1. Navigate to the project directory:
    ```bash
-   cd DevOps-Cloud-Portfolio/Projects/infrastructure-as-code/opentext-iam-patch-terraform-vm-provisioning
+   git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
+   cd iac-vmware-tf-vmprov/
    ```
 2. Initialize Terraform (downloads providers and sets up the working directory):
    ```bash
